@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Add Weights & Biases Docs integrations page (#7199)
