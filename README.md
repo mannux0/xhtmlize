@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Fixed RTDETR GFLOPs bug (#7309)
