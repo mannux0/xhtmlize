@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Optimize function calls to method calls (#8507)
