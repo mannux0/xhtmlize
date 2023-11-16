@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Docs partial mdformat improvements (#7378)
