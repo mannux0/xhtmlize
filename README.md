@@ -1,1 +1,1 @@
-Add docs links to all dataset YAMLs (#7360)
+Allow Annotator PIL.Image inputs (#8397)
