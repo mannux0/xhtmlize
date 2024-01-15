@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
