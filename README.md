@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
