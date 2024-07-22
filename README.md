@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
